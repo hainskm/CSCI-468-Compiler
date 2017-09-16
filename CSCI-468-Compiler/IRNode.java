@@ -1,7 +1,7 @@
 package src;
 
 /*
- * @author Josh McCleary and Jonathan Johnson
+ * @author Josh McCleary, Jonathan Johnson, and Kevin Hainsworth
  * CSCI 468 Compilers
  */
 

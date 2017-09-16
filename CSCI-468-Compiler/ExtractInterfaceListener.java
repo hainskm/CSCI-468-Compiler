@@ -7,7 +7,7 @@ import org.antlr.v4.runtime.Parser;
 import org.antlr.v4.runtime.tree.ParseTree;
 
 /*
- * @author Josh McCleary and Jonathan Johnson
+ * @author Josh McCleary, Jonathan Johnson, and Kevin Hainsworth
  * @since 25042016-1755
  * CSCI 468 Compilers
  */

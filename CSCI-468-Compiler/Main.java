@@ -6,7 +6,7 @@ import java.io.*;
 import java.util.ArrayList;
 
 /*
- * @author Josh McCleary and Jonathan Johnson
+ * @author Josh McCleary, Jonathan Johnson, and Kevin Hainsworth
  * @since 21042016-2055
  * CSCI 468 Compilers
  */

@@ -7,7 +7,7 @@ import java.util.List;
 import org.antlr.v4.runtime.tree.ParseTree;
 
 /*
- * @author Jonathan Johnson and Josh McCleary
+ * @author Jonathan Johnson, Josh McCleary, and Kevin Hainsworth
  * @since 27042016-1512
  * @update 29042016-1514
  * CSCI 468 Compilers
